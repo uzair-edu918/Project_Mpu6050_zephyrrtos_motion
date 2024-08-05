@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "log.h": "c",
+        "net_core.h": "c",
+        "inet.h": "c",
+        "device.h": "c",
+        "sha1.h": "c",
+        "*.tcc": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "regex": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "optional": "c",
+        "ratio": "c"
+    },
+    "zephyr-ide.projects": {},
+    "idf.flashType": "UART",
+    "idf.adapterTargetName": "esp32"
+}
